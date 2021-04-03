@@ -25,7 +25,8 @@ int abbs(int a,int b){   if(a-b < 0) return b-a; return a-b; }
  
  
 void solve(){
- 
+    
+    cout<<"ON qq";
  
 } 
       
